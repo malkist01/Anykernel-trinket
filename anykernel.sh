@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=FloppyKernel v1.2| @Flopster101
+kernel.string=🪷 AnjaniLaurens 🪷 for Xiaomi Trinket devices by @malkist01
 do.devicecheck=1
 do.modules=0
 do.systemless=1
