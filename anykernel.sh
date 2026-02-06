@@ -6,7 +6,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=FloppyKernel Feature Patcher for Trinket-Mi
+kernel.string=🪷 AnjaniLaurens 🪷 Feature Patcher for Trinket-Mi
 do.devicecheck=1
 do.modules=0
 do.systemless=0
